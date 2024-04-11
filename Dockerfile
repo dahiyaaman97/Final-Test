@@ -1,5 +1,5 @@
 # Use the official Python 3.9 image as base
-FROM python:3.9-slim
+FROM python:3.9
 
 # Set environment variables
 ENV FLASK_APP=app.py
